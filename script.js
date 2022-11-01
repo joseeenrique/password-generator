@@ -13,7 +13,7 @@ var isUppercase;
 var isLowercase;
 // upper
 // lower
-
+[[[''oo]]]
 
 function generatePassword(){
 
